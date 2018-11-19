@@ -24,6 +24,6 @@
         </activity>
         <meta-data android:name="com.google.android.gms.play.services.vision.DEPENDENCIES"
             android:value="ocr"/>
-    </application>
+    </application>///
 
 </manifest>
